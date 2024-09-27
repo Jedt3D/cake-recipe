@@ -2,8 +2,8 @@
 
 ## What to do next?
 
-1. find a recipe
-2. draft layout of the page
-3. find images
-4. refine the layout
-5. publish
+[x] find a recipe
+[ ] draft layout of the page
+[ ] find images
+[ ] refine the layout
+[ ] publish
