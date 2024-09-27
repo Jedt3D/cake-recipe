@@ -1,6 +1,6 @@
 # cake-recipe
 
-## Todo
+## What to do next?
 
 1. find a recipe
 2. draft layout of the page
