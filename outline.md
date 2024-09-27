@@ -1,5 +1,9 @@
 # outline
 
+![hero image](vanilla-cake.webp)
+
+[original recipe](https://www.recipetineats.com/my-very-best-vanilla-cake/)
+
 **Plush, moist, fluffy crumb** _without_ being freakishly unnaturally so (as some store bought can be). No more dense cakes!
 
 Keeps near perfectly for 4 whole days. **100% fresh on Day 1**, still 96% perfect on Day 4. That’s unheard of!
